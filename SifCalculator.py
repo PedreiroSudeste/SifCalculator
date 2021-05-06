@@ -59,5 +59,6 @@ if (categoria == 1):
     bonus = float(input("digite sue bonus: "))
     Total = (aghTotal + poTotal + acTotal + bonus)
     print("sua media sera de ", Total, "\n \n \n \n")
+    print("Feito por Enzo Miziara D'Andrea 1°c")
 if(categoria == 2):
     print("ops! parece que o programador ainda não passou por aqui")
